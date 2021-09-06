@@ -1,0 +1,58 @@
+{
+  "id": "2780274",
+  "name": "前航",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17984171",
+      "name": "关  闭",
+      "font_class": "guanbi1",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "10028196",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "10564232",
+      "name": "add",
+      "font_class": "add6",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    },
+    {
+      "icon_id": "1489073",
+      "name": "add",
+      "font_class": "add3",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "1471605",
+      "name": "add",
+      "font_class": "add2",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "232041",
+      "name": "add",
+      "font_class": "add1",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "880315",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    }
+  ]
+}
